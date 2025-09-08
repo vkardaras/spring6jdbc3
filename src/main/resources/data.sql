@@ -1,1 +1,1 @@
-INSERT INTO speaker (name) values ('Vasilis Kardaras');
+INSERT INTO speaker (name, skill) values ('Vasilis Kardaras', 'Java');
